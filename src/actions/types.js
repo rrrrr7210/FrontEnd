@@ -1,0 +1,10 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const SET_CURRENT_ID = "SET_CURRENT_ID";
+export const GET_USERS = "GET_USERS";
+export const GET_USER = "GET_USER";
+export const FOLLOW_USER = "FOLLOW_USER";
+export const UNFOLLOW_USER = "UNFOLLOW_USER";
+export const GET_FOLLOWED_USERS = "GET_FOLLOWED_USERS";
+export const UPDATE_USER_NAME = "UPDATE_USER_NAME";
+export const DELETE_USER = "DELETE_USER";
+export const GET_CURRENT_USER = "GET_CURRENT_USER";
